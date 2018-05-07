@@ -49,3 +49,9 @@ group :development do
 end
 
 gem 'faker'
+# Rake mini profiler
+gem 'rack-mini-profiler'
+gem 'memory_profiler'
+
+gem 'flamegraph'
+gem 'stackprof'
